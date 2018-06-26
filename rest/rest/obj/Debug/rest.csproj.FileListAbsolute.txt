@@ -1,0 +1,12 @@
+C:\Users\aytek\Desktop\RestaurantOtomasyon\rest\rest\bin\Debug\rest.exe.config
+C:\Users\aytek\Desktop\RestaurantOtomasyon\rest\rest\bin\Debug\rest.exe
+C:\Users\aytek\Desktop\RestaurantOtomasyon\rest\rest\bin\Debug\rest.pdb
+C:\Users\aytek\Desktop\RestaurantOtomasyon\rest\rest\obj\Debug\rest.csprojAssemblyReference.cache
+C:\Users\aytek\Desktop\RestaurantOtomasyon\rest\rest\obj\Debug\rest.frmGiris.resources
+C:\Users\aytek\Desktop\RestaurantOtomasyon\rest\rest\obj\Debug\rest.Properties.Resources.resources
+C:\Users\aytek\Desktop\RestaurantOtomasyon\rest\rest\obj\Debug\rest.csproj.GenerateResource.cache
+C:\Users\aytek\Desktop\RestaurantOtomasyon\rest\rest\obj\Debug\rest.csproj.CoreCompileInputs.cache
+C:\Users\aytek\Desktop\RestaurantOtomasyon\rest\rest\obj\Debug\rest.exe
+C:\Users\aytek\Desktop\RestaurantOtomasyon\rest\rest\obj\Debug\rest.pdb
+C:\Users\aytek\Desktop\RestaurantOtomasyon\rest\rest\obj\Debug\rest.frmMenu.resources
+C:\Users\aytek\Desktop\RestaurantOtomasyon\rest\rest\obj\Debug\rest.frmMasalar.resources
